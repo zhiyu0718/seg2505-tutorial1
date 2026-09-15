@@ -1,0 +1,1 @@
+console.log("Hello, SEG2505!");
